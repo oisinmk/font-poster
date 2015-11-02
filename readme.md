@@ -1,3 +1,3 @@
 read me for typography poster.
 
-#<img src="posterprintfinal.pdf">
+#<img src="posterprintfinal.jpg">
